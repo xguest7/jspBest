@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-에러페이지
+에러페이지1
 </body>
 </html>
